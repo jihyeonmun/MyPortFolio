@@ -15,22 +15,24 @@
 6개월이 지난 지금 보니, 개발 기초 지식이 넒히는 부분이며
 깊게 공부하는 지식은 나의 포지션과 관련된 부분의 기반 기술이더군요.
 
-| 내가 생각하는 개발 BFS 영역 | 세부                    | 현시점(210424)                                                                                |
-| --------------------------- | ----------------------- | --------------------------------------------------------------------------------------------- |
-| 기초                        | 컴퓨터공학(전산학) 기초 | 운영체제, 네트워크 데이터 베이스,자료구조                                                     |
-|                             | 알고리즘 및 자료구조    | 해시, 스택/큐, 힙, 정렬, 완전탐색, 탐욕법, 동적계획법, 깊이/너비 우선 탐색, 이분 탐색, 그래프 |
-| 기본                        |                         | 웹서비스 지식, 리눅스 셸, 깃허브, VSCode&Intellij 운영                                        |
+| 개발 BFS 영역 |          세부           | 현시점(210424)                                                                                | 깃허브(저장소)                                        |
+| :-----------: | :---------------------: | --------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+|     기초      | 컴퓨터공학(전산학) 기초 | 운영체제, 네트워크 데이터 베이스,자료구조                                                     | [링크](https://github.com/jihyeonmun/ComputerScience) |
+|               |  알고리즘 및 자료구조   | 해시, 스택/큐, 힙, 정렬, 완전탐색, 탐욕법, 동적계획법, 깊이/너비 우선 탐색, 이분 탐색, 그래프 | [링크](https://github.com/jihyeonmun/codingtest)      |
+|     기본      |                         | 웹서비스 지식, 리눅스 셸, 깃허브, VSCode&Intellij 운영                                        | [링크](https://github.com/jihyeonmun/Fundamental)     |
 
-| 내가 생각하는 개발 DFS 영역 | 세부                   | 현시점(210424)                                                                                                      |
-| --------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 포지션                      | 백엔드 개발자(자바)    | Java, Kotlin, SrpingFramework, SpringBoot, Spring Security, MyBatis, JSP, thymeleaf, JQuery, JPA, RDBMS, RESTfulAPI |
-|                             | 백엔드 개발자(Node.js) | Node.js, AWS Lambda, Serverless Framework                                                                           |
-|                             | alpha                  | React, Redis, MongoDB 개발 경험                                                                                     |
-| 실무                        |                        | 도커, 쿠버네티스, Jenkins, Jira, ELK Stack(Elasticsearch, Kibnan), AWS 자격증(아키텍트 이상)                        |
+<br>
+<br>
 
-이를 체득하고 습득하는 과정에서의 여정을 단순히 [깃 레포지토리]()나, [블로그]()나 [노션]()으로는
-나무들만을 보여주는 거 같아 숲을 꿈꾸고 전반적인 방향성을 잡고, 이를 계속 확인해나가는 작업을 진행해보고 싶어
-진행하게 되었습니다.
+| 개발 DFS 영역 |          세부          | 현시점(210424)                                                                                                      | 깃허브(저장소)                                                    |
+| :-----------: | :--------------------: | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+|    포지션     |  백엔드 개발자(자바)   | Java, Kotlin, SrpingFramework, SpringBoot, Spring Security, MyBatis, JSP, thymeleaf, JQuery, JPA, RDBMS, RESTfulAPI | [링크](https://github.com/jihyeonmun/SelfLearningaboutJavaSpring) |
+|               | 백엔드 개발자(Node.js) | Node.js, AWS Lambda, Serverless Framework                                                                           | [링크](https://github.com/jihyeonmun/TypeScriptwithellie)         |
+|               |         alpha          | React, Redis, MongoDB 개발 경험                                                                                     | **아직 준비중**                                                   |
+|     실무      |                        | 도커, 쿠버네티스, Jenkins, Jira, ELK Stack(Elasticsearch, Kibnan), AWS 자격증(아키텍트 이상)                        | [링크](https://github.com/jihyeonmun/AWS-Docker-Kubernetes-Nginx) |
+
+이를 체득하고 습득하는 과정에서의 여정을 단순히 [깃 레포지토리](https://github.com/jihyeonmun/)나, [블로그](https://startupdevelopers.tistory.com)나 [노션](https://www.notion.so/Notion-35aa1ab5176d4e818b70eab492e38d19)으로는
+나무들만을 보여주는 거 같아 숲을 꿈꾸고 전반적인 방향성을 잡고, 이를 계속 확인해나가는 작업을 진행해보고 싶어 public하게 보여지는 깃허브에 담아가는 과정을 진행하게 되었습니다.
 
 위를 보다 제대로 내것으로 만들고 이를 저의 포트폴리오이자 저의 커리어 기록물 저장소이자,
 이력서로 활용하고자 설계하였습니다.
